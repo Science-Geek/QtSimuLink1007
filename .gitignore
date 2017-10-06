@@ -1,0 +1,13 @@
+
+.gitattributes
+README.md
+*.cpp
+*.h
+*.bmp
+*.raw
+*.ico
+Qt_SoftSimulink.pri
+Qt_SoftSimulink.pro
+SoftSimulink.qrc
+Qt_SoftSimulink.rc
+SoftSimulink.ui
